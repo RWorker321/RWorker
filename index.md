@@ -1,7 +1,18 @@
 ## Start of My Journey...
 
-### Rough Draft
+### What is the Artifact?
+Briefly describe the artifact. What is it? When was it created? 
 This is where the synopsis of why and how I began my endeavor to obtain a bachelor's degree in computer science
+
+
+### Justification
+Justify the inclusion of the artifact(s) in your ePortfolio. Why did you select this item? What specific components of the artifact showcases your
+skills and abilities in software development? 
+
+
+### Reflection
+Reflect on the process of enhancing and/or modifying the artifact. What did you learn as you were creating it and improving it? What
+challenges did you face? How did you incorporate feedback as you made changes to the artifact? How was the artifact improved? 
 
 ### Courses
 Computer Science Capstone CS-499
