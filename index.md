@@ -19,9 +19,7 @@ The database artifact is demonstrated using a MongoDB Atlas database consisting 
 
 ### Reflection
 <p>The process of enhancing the MERN stack template began with planning the functionality and complexity of my application. I wanted to alter and expand upon the exercise-tracking application template by incorporating functionality such as API calls and additional database schemas. Also, providing the user with a sleep-metrics line chart will allow them to track their sleep duration from their sleep journal entries.</p>
-
 <p>One challenge that I faced while developing my project was integrating API request and response data into React components and states, especially for the HTTP request methods that required user parameters. Concepts such as string interpolation with template literals as the user’s parameters alleviated this hurdle and allowed me to integrate URI (Uniform Resource Identifier) component encoding for increased security.</p>
-
 <p>Since this sleep-tracking application was my first project using the MERN stack, professor-provided feedback was essential in the creation and revisions of my project. The feedback given from each milestone provided me with suggestions to improve my final project and the narrative that would encompass the overall aim of the project and ePortfolio. With each milestone covering software design/engineering, algorithms and data structures, and databases, I would integrate the feedback into both my narratives and project revisions.</p>
 
 ### Challenges
