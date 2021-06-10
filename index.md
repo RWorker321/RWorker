@@ -18,9 +18,11 @@ The database artifact is demonstrated using a MongoDB Atlas database consisting 
 
 
 ### Reflection
-The process of enhancing the MERN stack template began with planning the functionality and complexity of my application. I wanted to alter and expand upon the exercise-tracking application template by incorporating functionality such as API calls and additional database schemas. Also, providing the user with a sleep-metrics line chart will allow them to track their sleep duration from their sleep journal entries.
-One challenge that I faced while developing my project was integrating API request and response data into React components and states, especially for the HTTP request methods that required user parameters. Concepts such as string interpolation with template literals as the user’s parameters alleviated this hurdle and allowed me to integrate URI (Uniform Resource Identifier) component encoding for increased security.
-Professor-provided feedback was essential in the creation of my project. The sleep-tracking application was my first project using the MERN stack. With each milestone covering software design/engineering, algorithms and data structures, and databases, I would integrate the feedback into both my narratives and project revisions.
+<p>The process of enhancing the MERN stack template began with planning the functionality and complexity of my application. I wanted to alter and expand upon the exercise-tracking application template by incorporating functionality such as API calls and additional database schemas. Also, providing the user with a sleep-metrics line chart will allow them to track their sleep duration from their sleep journal entries.</p>
+
+<p>One challenge that I faced while developing my project was integrating API request and response data into React components and states, especially for the HTTP request methods that required user parameters. Concepts such as string interpolation with template literals as the user’s parameters alleviated this hurdle and allowed me to integrate URI (Uniform Resource Identifier) component encoding for increased security.</p>
+
+<p>Since this sleep-tracking application was my first project using the MERN stack, professor-provided feedback was essential in the creation and revisions of my project. The feedback given from each milestone provided me with suggestions to improve my final project and the narrative that would encompass the overall aim of the project and ePortfolio. With each milestone covering software design/engineering, algorithms and data structures, and databases, I would integrate the feedback into both my narratives and project revisions.</p>
 
 ### Challenges
 This is where I will list challenges  
@@ -37,27 +39,6 @@ testBullets
 Examples code will be displayed here  
 `const testCode = "Test Code";`
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
