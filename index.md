@@ -1,4 +1,4 @@
-## Start of My Journey...
+## Sleep-Tracking MERN-Stack Project
 
 ### Course
 Computer Science Capstone CS-499
