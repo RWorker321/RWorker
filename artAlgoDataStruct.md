@@ -1,4 +1,4 @@
-#### Algorithms and Data Structures
+### Algorithms and Data Structures
 Regarding the algorithms and data structures artifacts, request and response data sent and received from either the MongoDB database or API calls required iteration and filtering of relevant data. This response data was either mapped or pushed to arrays that would then be displayed to the user. Exception handling was also crucial in the components and routing files utilizing <em>then</em> and <em>catch</em> statements that logged relevant errors to the console. I replaced traditional functions with arrow functions to increase readability and maintain consistency throughout my source code.
 
 ### Justification
