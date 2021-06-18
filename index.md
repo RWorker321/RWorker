@@ -4,7 +4,7 @@
 Computer Science Capstone CS-499
 
 ### What are Artifacts and What do they Represent?
-<p>One of the requirements of the Computer Science Capstone course was publishing at least one with a maximum of three artifacts. Artifacts are meant to represent my personal growth in Southern New Hampshire University’s Computer Science program. With each artifact, I was to demonstrate enhancements in **Software Design and Engineering**, **Algorithms and Data Structures**, and **Databases**. Below you can find the artifact and corresponding enhancements.</p> 
+<p>One of the requirements of the Computer Science Capstone course was publishing at least one with a maximum of three artifacts. Artifacts are meant to represent my personal growth in Southern New Hampshire University’s Computer Science program. With each artifact, I was to demonstrate enhancements in <strong>Software Design and Engineering</strong>, <strong>Algorithms and Data Structures</strong>, and <strong>Databases</strong>. Below you can find the artifact and corresponding enhancements.</p> 
 
 [Software Design and Engineering](./firstArtifact.html)  
 [Algorithms and Data Structures](./secondArtifact.html)  
