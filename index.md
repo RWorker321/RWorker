@@ -3,9 +3,9 @@
 ### Course
 Computer Science Capstone CS-499
 
-[Link to First Artifact](./firstArtifact.html)
-[Link to Second Artifact](./secondArtifact.html)
-[Link to Third Artifact](./thirdArtifact.html)
+[Link to First Artifact](./firstArtifact.html)  
+[Link to Second Artifact](./secondArtifact.html)  
+[Link to Third Artifact](./thirdArtifact.html)  
 
 ### What is the Artifact?
 The sleep-tracking application development began in May of 2021 and was completed in late June 2021 (21EW5) for Southern New Hampshire University’s Computer Science Capstone (CS-499-T5475). The artifact presented in my ePortfolio is a sleep-tracking SPA (single-page application) that was developed using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). The sleep-tracking application can create, read, update, and delete (CRUD) usernames, sleep goals, and sleep journals. Additional features include HTTP (Hypertext Transfer Protocol) request methods to open-source APIs (application programming interface) such as NASA’s [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html) that returns an astronomy-related image with a description each day. I also included a dream word interpreter that displays the user’s journal entry, allows them to input a word into the search bar, and the DataMuse API call returns adjectives relating to the user-selected word to assist in the interpretation of the user’s dream journal entry. Sleep metrics are also displayed to the user via a line chart that extracts the duration of the user's sleep journal into the line chart's dataset.
