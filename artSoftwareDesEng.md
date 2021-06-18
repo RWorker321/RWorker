@@ -1,4 +1,4 @@
-#### Software Design and Engineering
+### Software Design and Engineering
 <p>For the software design and engineering artifacts, the specific components that showcase my skills and abilities are based upon the addition of multiple React components that are responsible for functionality such as returning/displaying sleep-metrics in the form of a line chart, integrating APIs that expand the functionality of my application, and creating a user-friendly UI (user interface) that allows the user to intuitively CRUD their data entries. Each tab within my application has an explicit function that isolates specific functionality without overwhelming the user. Comments also explicitly and concisely detail program syntax increasing the readability of my source code.</p>
 
 ### Justification
