@@ -1,4 +1,4 @@
-#### Databases
+### Databases
 The database artifact is demonstrated using a MongoDB Atlas database consisting of three collections and multiple documents. Mongoose schemas are responsible for structuring database entries and setting rules such as data types, required/unique inputs, and min/max length of user-input data. The user also can CRUD their entries on the main page of the application simply by clicking the provided links/routes.
 
 ### Justification
