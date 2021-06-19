@@ -3,6 +3,7 @@
 ### What are Artifacts and What do they Represent?
 <p>One of the requirements of the Computer Science Capstone course was publishing at least one with a maximum of three artifacts. Artifacts are meant to represent my personal growth in Southern New Hampshire University’s Computer Science program. With each artifact, I was to demonstrate enhancements in <strong>Software Design and Engineering</strong>, <strong>Algorithms and Data Structures</strong>, and <strong>Databases</strong>. Below you can find the artifact and corresponding enhancements.</p> 
 [Project Overview](./projectOverview.html)
+
 [Software Design and Engineering](./artSoftwareDesEng.html)  
 [Algorithms and Data Structures](./artAlgoDataStruct.html)  
 [Databases](./artDatabases.html)  
