@@ -1,10 +1,21 @@
-### Algorithms and Data Structures
-Regarding the algorithms and data structures artifacts, request and response data sent and received from either the MongoDB database or API calls required iteration and filtering of relevant data. This response data was either mapped or pushed to arrays that would then be displayed to the user. Exception handling was also crucial in the components and routing files utilizing <em>then</em> and <em>catch</em> statements that logged relevant errors to the console. I replaced traditional functions with arrow functions to increase readability and maintain consistency throughout my source code.
+### Algorithms and Data Structures Enhancements
+In my endeavor to demonstrate comprehension of algorithms and data structures, I determined that I needed to develop unique functions that utilized data structures to alter or modify user data. To achieve this, request and response data sent and received from either the MongoDB database or API calls required iteration and filtering of relevant data. This response data was either mapped or pushed to arrays that would then be displayed to the user. 
 
-### Justification
-I determined that the artifacts within my sleep-tracking application would be an advantageous addition to my ePortfolio since the development of a MERN-stack application demonstrates comprehension of software design/engineering, algorithms and data structures, and databases. This comprehension stems from the ability to develop and integrate front and back-end architecture to meet the required functionality of the application and user’s needs. 
+#### Exception Handling
+In my journey through Southern New Hampshire University’s computer science program, I learned that exception handling assists with anomalies or unintended behaviors of programs. For example, since my sleep-tracking application required routes and connection with MongoDB, the addition of *then* and *catch* statements would either reroute the program’s behavior or prompt the user of the corresponding error(s) stemming from the response data of HTTP (Hypertext Transfer Protocol) request methods to the database.
+Example of Exception Handling used within my program’s routing include:
+`.then(() => res.json('Sleep Journal Updated!'))
+ .catch(err => res.status(400).json('Error: ' + err));`
+ 
+#### String Interpolation and Arrow Functions
+Shortcuts provide the developer with the obvious time-saving attributes but also increases the readability of the source code. Such methods as string interpolation and arrow functions are two tactics used when developing the sleep-tracking application that I became very familiar with. While traditional functions and string formatting are included within my source code, I wanted to demonstrate comprehension of alternative approaches to formatting code.
+String Interpolation Example:
+`axios.get(`https://api.datamuse.com/words?rel_jjb=${encodeURIComponent(dreamWordParam)}`)`
 
-### Reflection
-<p>The process of enhancing the MERN stack template began with planning the functionality and complexity of my application. I wanted to alter and expand upon the exercise-tracking application template by incorporating functionality such as API calls and additional database schemas. Also, providing the user with a sleep-metrics line chart will allow them to track their sleep duration from their sleep journal entries.</p>
-<p>One challenge that I faced while developing my project was integrating API request and response data into React components and states, especially for the HTTP request methods that required user parameters. Concepts such as string interpolation with template literals as the user’s parameters alleviated this hurdle and allowed me to integrate URI (Uniform Resource Identifier) component encoding for increased security.</p>
-<p>Since this sleep-tracking application was my first project using the MERN stack, professor-provided feedback was essential in the creation and revisions of my project. The feedback given from each milestone provided me with suggestions to improve my final project and the narrative that would encompass the overall aim of the project and ePortfolio. With each milestone covering software design/engineering, algorithms and data structures, and databases, I would integrate the feedback into both my narratives and project revisions.</p>
+####Array Manipulation
+Several portions of my project included returning specific data from MongoDB with the aim of displaying that data to the user. To achieve this functionality, I decided to include arrow functions that would push specific elements from the user’s entries within MongoDB. By iterating over each element of the response data from MongoDB and storing that data in the empty array, I was able to display specific data to the user while excluding non-relevant response data.
+
+`resData.forEach(element => {
+            sleepDuration.push(element.duration)
+            sleepDate.push(element.date)
+          });  `
