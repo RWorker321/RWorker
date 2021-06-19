@@ -8,6 +8,7 @@
 The following links will elaborate on the skills and concepts I have learned throughout Southern New Hampshire University’s computer science program. 
 
 [Project Overview](./projectOverview.html)
+
 [Software Design and Engineering](./artSoftwareDesEng.html)  
 [Algorithms and Data Structures](./artAlgoDataStruct.html)  
 [Databases](./artDatabases.html)  
