@@ -21,26 +21,3 @@ I determined that the artifacts within my sleep-tracking application would be an
 <p>One challenge that I faced while developing my project was integrating API request and response data into React components and states, especially for the HTTP request methods that required user parameters. Concepts such as string interpolation with template literals as the user’s parameters alleviated this hurdle and allowed me to integrate URI (Uniform Resource Identifier) component encoding for increased security.</p>
 <p>Since this sleep-tracking application was my first project using the MERN stack, professor-provided feedback was essential in the creation and revisions of my project. The feedback given from each milestone provided me with suggestions to improve my final project and the narrative that would encompass the overall aim of the project and ePortfolio. With each milestone covering software design/engineering, algorithms and data structures, and databases, I would integrate the feedback into both my narratives and project revisions.</p>
 
-### Work in Progress
-### Challenges
-This is where I will list challenges  
-**testBold** and _testItalics_
-
-### OOP and Foundational Concepts
-This is where I will cover OOP and foundational concepts learned  
-testBullets  
-- TestBullet01
-- TestBullet02
-- TestBullet03
-
-### Code
-Examples code will be displayed here  
-`const testCode = "Test Code";`
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RWorker321/RWorker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
