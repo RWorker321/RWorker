@@ -1,6 +1,6 @@
 ## Project Overview
 
-When first opening the Single Page Web Application (SPA), the user is greeted with their previous Sleep Journal and Sleep Goal entries. The user can either review their entries or take actions such as edit or delete their entries. 
+When first opening the Single Page Application (SPA), the user is greeted with their previous Sleep Journal and Sleep Goal entries. The user can either review their entries or take actions such as edit or delete their entries. 
 ![Main Page Top](images/mainPage01.PNG)
 
 On the bottom of each page, the user can review their sleep metrics. The dataset is comprised of the duration of their Sleep Journals and the date that the Sleep Journal was created. 
