@@ -1,7 +1,11 @@
-## Sleep-Tracking MERN-Stack Project
+## Professional Self-Assessment
+<p>After completing my coursework throughout Southern New Hampshire University’s computer science program, retrospectively evaluating the skills, concepts, lessons learned, and building my ePortfolio, I have concluded that computer science requires an open mindset and the endeavor to continuously learn and try new technologies. That undertaking is learning a new programing language, IDE (intergrated development environment), library or framework, development methodology, or any other technology relating to computer science. While the endeavor to continuously learn new technologies may be outside of my comfort zone, I can lean on the development skillset that I have been building since I began the computer science program.</p>
+<p>Team collaboration is also paramount in utilizing the various technologies that computer science’ encompasses. I learned early on in my academic journey that professor and student feedback is essential in developing coursework that I can be proud of. My fourth-year internship also taught me that team collaboration carries more importance than any other skill I’ve learned. Without coworker feedback and support, the organization’s workload would stagnate and little to no innovation would be possible. </p>
+<p>The aim of my academic and internship endeavors is to deliver assignments or products to the best of my ability. It is critical to communicate with the stakeholder, whether that stakeholder is a professor with an explicit rubric or a customer with specific requirements and expectations. Iterative working prototypes and stakeholder communication allow for dynamic alterations to the project throughout the development process with the aim of slowly molding the working prototype to a quality product that meets or exceeds the stakeholder expectations.</p>
+<p>To get to a project that meets or exceeds the expectations of the stakeholder, foundational concepts such as software design and engineering, algorithms and data structures, and databases must contain the complexity and functionality expected of the stakeholder. </p>
 
-### What are Artifacts and What do they Represent?
-<p>One of the requirements of the Computer Science Capstone course was publishing at least one with a maximum of three artifacts. Artifacts are meant to represent my personal growth in Southern New Hampshire University’s Computer Science program. With each artifact, I was to demonstrate enhancements in <strong>Software Design and Engineering</strong>, <strong>Algorithms and Data Structures</strong>, and <strong>Databases</strong>. Below you can find the artifact and corresponding enhancements.</p> 
+### Fitting All of the Pieces Together
+The following links will elaborate on the skills and concepts I have learned throughout Southern New Hampshire University’s computer science program. 
 
 [Project Overview](./projectOverview.html)
 
