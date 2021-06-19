@@ -1,13 +1,14 @@
 ## Project Overview
-![Main Page First Image](https://github.com/RWorker321/RWorker/blob/gh-pages/images/mainPage01.PNG)
 
-![Main Page Second  Image](https://github.com/RWorker321/RWorker/blob/gh-pages/images/mainPage02.PNG)
+<img src=https://github.com/RWorker321/RWorker/blob/gh-pages/images/mainPage01.PNG width="800" height="425" />
 
-![Sleep Journal Image](https://github.com/RWorker321/RWorker/blob/gh-pages/images/sleepJournal.PNG)
+<img src=https://github.com/RWorker321/RWorker/blob/gh-pages/images/mainPage02.PNG width="800" height="425" />
 
-![Dream Interpreter](https://github.com/RWorker321/RWorker/blob/gh-pages/images/dreamInterp.PNG)
+<img src=https://github.com/RWorker321/RWorker/blob/gh-pages/images/sleepJournal.PNG width="800" height="425" />
 
-![NASA APOD](https://github.com/RWorker321/RWorker/blob/gh-pages/images/NasaImage.PNG)
+<img src=https://github.com/RWorker321/RWorker/blob/gh-pages/images/dreamInterp.PNG width="800" height="425" />
+
+<img src=https://github.com/RWorker321/RWorker/blob/gh-pages/images/NasaImage.PNG width="800" height="425" />
 
 [back](index.html)
 
