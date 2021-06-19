@@ -18,7 +18,7 @@ axios.get(`https://api.datamuse.com/words?rel_jjb=${encodeURIComponent(dreamWord
 ```
 
 ### Array Manipulation
-Several portions of my project included returning specific data from MongoDB with the aim of displaying that data to the user. To achieve this functionality, I decided to include arrow functions that would push specific elements from the user’s entries within MongoDB. By iterating over each element of the response data from MongoDB and storing that data in the empty array, I was able to display specific data to the user while excluding non-relevant response data.
+Several portions of my project included returning specific data from MongoDB with the aim of displaying that data to the user. To achieve this functionality, I decided to include arrow and forEach functions that would iterate over the duration and date elements included in the response data from MongoDB and push the specific elements to empty arrays. By iterating over each element of the response data from MongoDB, storing that data in an empty array, and setting that array to the line chart's dataset, I was able to display specific data to the user while excluding non-relevant response data.
 ```javascript
 resData.forEach(element => {
             sleepDuration.push(element.duration)
