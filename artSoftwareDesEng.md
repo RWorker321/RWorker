@@ -20,8 +20,8 @@ The aim with reworking and adding React components with unique functionality and
 Looking back after reworking the initial exercise-tracking template into a sleep-tracking application with complex and unique functionality, I found that the iterative approach to designing and developing projects has many advantages. These advantages include the ability to test and interact with semi-functional components early in the development process and determine if the project’s working prototype is moving closer towards the desired end goal.
 
 #### Resources:
-Carnes, B. (2019, June 25). Learn the MERN Stack – Full Tutorial (MongoDB, Express, React, Node.js). [Video File]. YouTube. https://www.youtube.com/watch?v=7CqJlxBYj-M
+Carnes, B. (2019, June 25). Learn the MERN Stack – Full Tutorial (MongoDB, Express, React, Node.js). [Video File]. YouTube. [https://www.youtube.com/watch?v=7CqJlxBYj-M](https://www.youtube.com/watch?v=7CqJlxBYj-M)
 
-Kapehe _ok. (2020, May 13). Make a Stellar React + NASA API App. [Video File]. YouTube. https://www.youtube.com/watch?v=H1nENYv-r_w&ab_channel=Kapehe_ok
+Kapehe _ok. (2020, May 13). Make a Stellar React + NASA API App. [Video File]. YouTube. [https://www.youtube.com/watch?v=H1nENYv-r_w&ab_channel=Kapehe_ok](https://www.youtube.com/watch?v=H1nENYv-r_w&ab_channel=Kapehe_ok)
 
 [back](index.html)
