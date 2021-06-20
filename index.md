@@ -5,10 +5,10 @@
 <p>To develop and deliver a project that meets or exceeds the expectations of the stakeholder, foundational concepts such as software design and engineering, algorithms and data structures, and databases must contain the complexity and functionality expected of the stakeholder's requirements. </p>
 
 ### Fitting All of the Pieces Together
-The following links will elaborate on the skills and concepts I have learned throughout Southern New Hampshire University’s computer science program. 
-
+The following links will elaborate on the skills and concepts I have learned throughout Southern New Hampshire University’s computer science program.  
 [Project Overview](./projectOverview.html)
 
+Project Enhancements  
 [Software Design and Engineering](./artSoftwareDesEng.html)  
 [Algorithms and Data Structures](./artAlgoDataStruct.html)  
 [Databases](./artDatabases.html)  
