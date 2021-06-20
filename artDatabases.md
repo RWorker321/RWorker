@@ -4,7 +4,9 @@ For the database enhancements portion of my project, I decided to include a Mong
 ### Object Data Modeling
 As mentioned above, the username, sleep journal, and sleep goal included string, number, and date data types, but I also required rules that would govern the user’s inputs. I applied rules to each model field that included data types, required inputs, unique inputs, default values, min/max lengths, and timestamps. 
 Example of Username field:
-`username: { type: String, required: true, unique: true, minLength: 3, maxLength: 10 }, `
+```javascript
+username: { type: String, required: true, unique: true, minLength: 3, maxLength: 10 },
+```
 
 ### CRUD Operations
 My project required the ability to CRUD or create, read, update, and delete data entries from the user. To achieve this functionality, HTTP (Hypertext Transfer Protocol) request methods such as *post*, *get*, and *delete* were used in conjunction with the request data of the user and response data in JSON (JavaScript Object Notation) format. Built-in MongoDB function such as `findById` or `findByIdAndDelete` were used with the corresponding HTTP request method and request parameters.
